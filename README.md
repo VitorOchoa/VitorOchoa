@@ -1,5 +1,4 @@
-# 👋 Olá, eu sou o Vitor Ochoa
-
+# 👋 Olá, eu sou o Vitor Ochoa 
 🎓 Estudante de Engenharia de Software
 
 ---
@@ -51,11 +50,11 @@ Gosto de me aprimorar de forma autoditada por meio de projetos práticos, estudo
 
 ## 📈 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorOchoa&show_icons=true)
+![](https://komarev.com/ghpvc/?username=VitorOchoa&color=blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VitorOchoa)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOchoa&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VitorOchoa&layout=donut)
 
 ---
 
